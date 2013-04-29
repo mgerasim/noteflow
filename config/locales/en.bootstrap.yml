@@ -5,7 +5,7 @@ en:
   helpers:
     actions: "Actions"
     links:
-      back: "Back"
+      back: "Back1"
       cancel: "Cancel"
       confirm: "Are you sure?"
       destroy: "Delete"
